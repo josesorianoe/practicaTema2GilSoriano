@@ -33,11 +33,16 @@ Este menú consta de 4 opciones, que se explican a continuación…
 
 ![](capturas/1.jpg)
 
+
 ### 3.1 Ver el estado de ocupación de las habitaciones
 Recuento de habitaciones disponibles por tipo (Individual y Doble).
 
+![](capturas/2.jpg)
+
 ### 3.2 Reservar una habitación
 Proceso de reserva, incluyendo la elección del tipo de habitación y la generación de un ticket con información relevante.
+
+![](capturas/3.jpg)
 
 ### 3.3 Realizar un checkout de una habitación
 Procedimiento para realizar el checkout, solicitando información específica y generando una factura correspondiente.
