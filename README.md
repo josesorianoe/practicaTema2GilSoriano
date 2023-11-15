@@ -2,63 +2,54 @@
 Práctica obligatoria del tema 2
 # Manual de Usuario - Hotel Ciudad de Martos
 
-## 1. Introducción
+# Manual de Usuario - Hotel Ciudad de Martos
 
-Bienvenid@ al Manual de Usuario del software encargado de gestionar reservas y controlar checkouts en el "Hotel Ciudad de Martos". Aquí encontrarás las instrucciones para instalar y utilizar este programa en tus ordenadores, garantizando un manejo eficiente y cómodo.
+## Índice
+1. [Introducción](#1-introducción)
+2. [Instalación del programa](#2-instalación-del-programa)
+3. [Menú Principal](#3-menú-principal)
+   - 3.1 [Ver el estado de ocupación de las habitaciones](#31-ver-el-estado-de-ocupación-de-las-habitaciones)
+   - 3.2 [Reservar una habitación](#32-reservar-una-habitación)
+   - 3.3 [Realizar un checkout de una habitación](#33-realizar-un-checkout-de-una-habitación)
+   - 3.4 [Menú de Administrador](#34-menú-de-administrador)
+4. [Menú de Administrador](#4-menú-de-administrador)
+   - 4.1 [Consultar ingresos totales y el número de reservas finalizadas](#41-consultar-ingresos-totales-y-el-número-de-reservas-finalizadas)
+   - 4.2 [Consultar monedas restantes para el cambio](#42-consultar-monedas-restantes-para-el-cambio)
+   - 4.3 [Volver al Menú Principal](#43-volver-al-menú-principal)
+   - 4.4 [Apagar el software](#44-apagar-el-software)
+
+## 1. Introducción
+Bienvenid@ al Manual de Usuario del software de gestión de reservas y checkouts del "Hotel Ciudad de Martos". Aquí encontrarás información detallada sobre la instalación y el uso del programa para asegurar una experiencia eficiente y cómoda.
 
 ## 2. Instalación del programa
-
-La instalación del programa consta de varios pasos críticos. Asegúrate de seguir cada uno de ellos cuidadosamente para evitar problemas en el funcionamiento.
-
-### Pasos de instalación:
-
-1. **Verificar la instalación de Java:** Asegúrate de tener Java instalado en tu ordenador. Si ya cuentas con Java, puedes proceder al siguiente paso.
-   
-2. **Descargar el paquete "FernanHotel":** Descarga el paquete proporcionado, llamado "FernanHotel". Este paquete incluye un archivo ejecutable (.bat) que se utilizará para iniciar el programa.
-
-3. **Extraer y ejecutar el programa:** Accede al Disco Local C: y extrae el archivo descargado (formato .rar). Luego, ejecuta el archivo "FernanHotel.bat".
+La instalación consta de varios pasos cruciales que deben seguirse al pie de la letra para garantizar un funcionamiento correcto.
 
 ## 3. Menú Principal
-
-El Menú Principal consta de cuatro opciones, cada una diseñada para facilitar el manejo del programa.
+El Menú Principal ofrece diversas opciones para facilitar la gestión de reservas y checkouts.
 
 ### 3.1 Ver el estado de ocupación de las habitaciones
-
-En esta opción, se realiza un recuento de las habitaciones disponibles de cada tipo (Individual y Doble).
+Recuento de habitaciones disponibles por tipo (Individual y Doble).
 
 ### 3.2 Reservar una habitación
-
-Selecciona el tipo de habitación y proporciona tu nombre, primer apellido y DNI para realizar una reserva. Se generará un ticket con información detallada sobre la habitación y el número de confirmación.
+Proceso de reserva, incluyendo la elección del tipo de habitación y la generación de un ticket con información relevante.
 
 ### 3.3 Realizar un checkout de una habitación
-
-Completa el checkout proporcionando el número de habitación, número de confirmación y fecha de salida. El programa calculará el cobro y generará una factura correspondiente.
+Procedimiento para realizar el checkout, solicitando información específica y generando una factura correspondiente.
 
 ### 3.4 Menú de Administrador
-
-Accede al Menú de Administrador (requiere un usuario y contraseña específicos).
-
-- **Usuario:** admin
-- **Contraseña:** admin
+Acceso al Menú de Administrador (requiere usuario y contraseña específicos).
 
 ## 4. Menú de Administrador
-
-El Menú de Administrador ofrece cuatro opciones adicionales para gestionar el hotel de manera más avanzada.
+El Menú de Administrador ofrece opciones avanzadas para la gestión del hotel.
 
 ### 4.1 Consultar ingresos totales y el número de reservas finalizadas
-
-Muestra los ingresos totales del hotel hasta el momento y la cantidad de reservas finalizadas correctamente.
+Visualización de ingresos totales y cantidad de reservas finalizadas correctamente.
 
 ### 4.2 Consultar monedas restantes para el cambio
-
-Visualiza las monedas y billetes actuales, con la opción de rellenarlos al máximo.
+Información sobre monedas y billetes actuales, con opción de rellenar al máximo.
 
 ### 4.3 Volver al Menú Principal
-
-Regresa al Menú Principal desde el Menú de Administrador.
+Regreso al Menú Principal desde el Menú de Administrador.
 
 ### 4.4 Apagar el software
-
-Apaga el programa (solo se puede realizar desde esta opción).
-
-¡Disfruta de tu experiencia en el "Hotel Ciudad de Martos"! Si tienes alguna pregunta o problema, consulta este manual o ponte en contacto con el soporte técnico correspondiente.
+Opción para apagar el programa (solo posible desde esta opción).
