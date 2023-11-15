@@ -1,6 +1,10 @@
 # practicaTema2GilSoriano
 Práctica obligatoria del tema 2
 
+Autores:
+- Gil Vacas
+- José Ángel Soriano
+
 # Manual de Usuario - Hotel Ciudad de Martos
 
 ## Índice
@@ -42,13 +46,37 @@ Recuento de habitaciones disponibles por tipo (Individual y Doble).
 ### 3.2 Reservar una habitación
 Proceso de reserva, incluyendo la elección del tipo de habitación y la generación de un ticket con información relevante.
 
+En primer lugar, se elige el tipo de habitación:
+
 ![](capturas/3.jpg)
 
+En segundo lugar, se nos pide nombre, primer apellido y DNI, para llevar un control de la habitación reservada, dándonos después nuestro correspondiente ticket, para saber nuestra habitación y número de confirmación.
+
+![](capturas/4.jpg)
+![](capturas/5.jpg)
+
 ### 3.3 Realizar un checkout de una habitación
-Procedimiento para realizar el checkout, solicitando información específica y generando una factura correspondiente.
+Procedimiento para realizar el checkout, solicitando el número de habitación y número de confirmación de la reserva.
+
+![](capturas/6.jpg)
+![](capturas/7.jpg)
+
+Una vez verificado, se simulará una fecha de salida que deberemos de introducir por teclado, para posteriormente generar la factura correspondiente.
+
+![](capturas/8.jpg)
+![](capturas/10.jpg)
+
+Para finalizar, se pedirá el importe para realizar el pago, mostrando su correspondiente cambio y dejando libre la habitación.
+
+![](capturas/11.jpg)
+![](capturas/12.jpg)
 
 ### 3.4 Menú de Administrador
 Acceso al Menú de Administrador (requiere usuario y contraseña específicos).
+
+	Usuario: admin		Contraseña: admin
+
+ ![](capturas/13.jpg)
 
 ## 4. Menú de Administrador
 El Menú de Administrador ofrece opciones avanzadas para la gestión del hotel.
@@ -56,11 +84,18 @@ El Menú de Administrador ofrece opciones avanzadas para la gestión del hotel.
 ### 4.1 Consultar ingresos totales y el número de reservas finalizadas
 Visualización de ingresos totales y cantidad de reservas finalizadas correctamente.
 
+![](capturas/14.jpg)
+
 ### 4.2 Consultar monedas restantes para el cambio
-Información sobre monedas y billetes actuales, con opción de rellenar al máximo.
+Información sobre monedas y billetes actuales, con opción de rellenar al máximo si se desea.
+
+![](capturas/15.jpg)
+![](capturas/16.jpg)
 
 ### 4.3 Volver al Menú Principal
-Regreso al Menú Principal desde el Menú de Administrador.
+Regresa al Menú Principal, manteniendo iniciado el programa.
 
 ### 4.4 Apagar el software
 Opción para apagar el programa (solo posible desde esta opción).
+
+![](capturas/17.jpg)
