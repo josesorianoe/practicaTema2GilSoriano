@@ -1,5 +1,4 @@
-# practicaTema2GilSoriano
-Práctica obligatoria del tema 2
+# Práctica obligatoria del tema 2
 
 Autores:
 - Gil Vacas
