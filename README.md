@@ -26,9 +26,12 @@ Bienvenid@, este es el Manual de Usuario de un software encargado de realizar la
 
 ## 2. Instalación del programa
 Para empezar, esta instalación constará de varios pasos, síganlos al pie de la letra, ya que un problema en la instalación, puede causar que no funcione o que pueda dar fallos.
-1º Paso: asegurarnos de que tiene instalado Java en su ordenador. Si tiene Java instalado, puede proceder al siguiente paso.
-2º Paso: descargamos el paquete que se le facilita, se llama, “fernanHotel”, contiene un archivo .bat, que sería el ejecutable para poder comenzar el programa.
-3º Paso:accedemos al Disco Local C: y ahí extraemos el archivo recién descargado, ya que es un .rar, y le damos doble click en FernanHotel.bat
+
+1º Paso: asegurarnos de que tiene instalado Java en su ordenador. Si tiene Java instalado, puede proceder al siguiente paso.  
+
+2º Paso: descargamos el paquete que se le facilita, se llama, “fernanHotel”, contiene un archivo .bat, que sería el ejecutable para poder comenzar el programa.  
+
+3º Paso:accedemos al Disco Local C: y ahí extraemos el acceso directo del ejecutable, ya que es un .rar, o dentro del fichero le damos doble click en FernanHotel.bat.  
 
 
 ## 3. Menú Principal
