@@ -19,13 +19,20 @@ Práctica obligatoria del tema 2
    - 4.4 [Apagar el software](#44-apagar-el-software)
 
 ## 1. Introducción
-Bienvenid@ al Manual de Usuario del software de gestión de reservas y checkouts del "Hotel Ciudad de Martos". Aquí encontrarás información detallada sobre la instalación y el uso del programa para asegurar una experiencia eficiente y cómoda.
+Bienvenid@, este es el Manual de Usuario de un software encargado de realizar las reservas y controlar los checkout de nuestros clientes en el “Hotel Ciudad de Martos”.
+	A continuación, se le mostrará la instalación de este software en sus ordenadores y su correcto uso, para su disfrute y confort.
 
 ## 2. Instalación del programa
-La instalación consta de varios pasos cruciales que deben seguirse al pie de la letra para garantizar un funcionamiento correcto.
+Para empezar, esta instalación constará de varios pasos, síganlos al pie de la letra, ya que un problema en la instalación, puede causar que no funcione o que pueda dar fallos.
+1º Paso: asegurarnos de que tiene instalado Java en su ordenador. Si tiene Java instalado, puede proceder al siguiente paso.
+2º Paso: descargamos el paquete que se le facilita, se llama, “fernanHotel”, contiene un archivo .bat, que sería el ejecutable para poder comenzar el programa.
+3º Paso:accedemos al Disco Local C: y ahí extraemos el archivo recién descargado, ya que es un .rar, y le damos doble click en FernanHotel.bat
+
 
 ## 3. Menú Principal
-El Menú Principal ofrece diversas opciones para facilitar la gestión de reservas y checkouts.
+Este menú consta de 4 opciones, que se explican a continuación…
+
+!(capturas/1.png)
 
 ### 3.1 Ver el estado de ocupación de las habitaciones
 Recuento de habitaciones disponibles por tipo (Individual y Doble).
