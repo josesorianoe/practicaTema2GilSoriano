@@ -1,6 +1,5 @@
 # practicaTema2GilSoriano
 Práctica obligatoria del tema 2
-# Manual de Usuario - Hotel Ciudad de Martos
 
 # Manual de Usuario - Hotel Ciudad de Martos
 
@@ -32,7 +31,7 @@ Para empezar, esta instalación constará de varios pasos, síganlos al pie de l
 ## 3. Menú Principal
 Este menú consta de 4 opciones, que se explican a continuación…
 
-!(capturas/1.png)
+!(capturas/1.jpg)
 
 ### 3.1 Ver el estado de ocupación de las habitaciones
 Recuento de habitaciones disponibles por tipo (Individual y Doble).
